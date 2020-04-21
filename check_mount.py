@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # check_mount.py
 # checks if a specific file exists in a docker container
 
